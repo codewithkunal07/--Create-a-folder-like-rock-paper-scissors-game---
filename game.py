@@ -45,7 +45,4 @@ while True:
 
 print("Thanks for playing!")
 
-Choose rock, paper, or scissors: rock
-Computer chose: scissors
-You win!
-Score: You 1 - 0 Computer
+
